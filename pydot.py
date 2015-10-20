@@ -19,7 +19,7 @@ Distributed under MIT license [http://opensource.org/licenses/mit-license.html].
 
 __revision__ = "$LastChangedRevision$"
 __author__ = 'Ero Carrera'
-__version__ = '1.0.%d' % 29  # int( __revision__[21:-2] )
+__version__ = '2.0.1'
 __license__ = 'MIT'
 
 import os
